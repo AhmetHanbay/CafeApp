@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/fon/EduSABeginner-VariableFont_wght.ttf",
+      "sha1": "ecbb3a8049f21c59fb9fc32bca82e0f640f91cb2"
+    },
+    {
+      "path": "assets/fonts/fon/OFL.txt",
+      "sha1": "f93bb26f4c9a4fa389e3ccb910a8a58a0cfac7ff"
+    },
+    {
+      "path": "assets/fonts/fon/README.txt",
+      "sha1": "4f750957cd9105fefaca2bc04286c4678e009703"
+    },
+    {
+      "path": "assets/fonts/fon/static/EduSABeginner-Bold.ttf",
+      "sha1": "ea28673f7a46eb2391445621cea443644e1b2968"
+    },
+    {
+      "path": "assets/fonts/fon/static/EduSABeginner-Medium.ttf",
+      "sha1": "cb4981e793cfdf7b5ad147adddd399dac5c6d02f"
+    },
+    {
+      "path": "assets/fonts/fon/static/EduSABeginner-Regular.ttf",
+      "sha1": "a1a43bfa6cbf11d1cce1c22eb39895d4cb850ace"
+    },
+    {
+      "path": "assets/fonts/fon/static/EduSABeginner-SemiBold.ttf",
+      "sha1": "155b83d02b8d40826fface2dd96386909d42570a"
+    }
+  ]
+}
